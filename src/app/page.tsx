@@ -5,7 +5,7 @@ const Home: React.FC = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Cafe Menu</title>
+        <title>Cuban Cafe Menu</title>
         <meta charSet="utf-8" />
         <link rel="stylesheet" href="estilos.css" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
